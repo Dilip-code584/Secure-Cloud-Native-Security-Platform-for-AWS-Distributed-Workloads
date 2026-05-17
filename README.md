@@ -1,5 +1,5 @@
 
-#Secure Cloud-Native Security Platform for AWS Distributed Workloads
+Secure Cloud-Native Security Platform for AWS Distributed Workloads
 
 ## Overview
 
